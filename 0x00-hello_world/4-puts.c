@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 /**
- * a C program that prints a text with puts followed by a new line
  * main - Entry point of the program
  * Return: Always returns (0)
  */
